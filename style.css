@@ -1,0 +1,32 @@
+
+.ppic{
+    margin-top: 100px;
+    margin-left: 10%;
+}
+.b1{
+    margin-top: 7%;
+    margin-left: 42%;
+    text-decoration: none;
+    width: 20%;
+   height: 50px;
+   background-color: rgb(19, 147, 8);
+   border-radius: 10px 10px 10px 10px;
+   box-shadow: 0px 1px 10px 1px rgba(0, 0, 0, 0.5);
+}
+.b11{
+    height: 20%;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+.b1:hover{
+    background:rgb(7, 68, 18);
+    cursor: pointer;
+    transition-duration: 0.9s;
+}
+body,html{
+    height: 100%;
+    background-size: cover;
+    background-position: left;
+}
